@@ -1,0 +1,11 @@
+fastapi>=0.115.0
+uvicorn[standard]>=0.32.0
+slack-bolt>=1.21.0
+slack-sdk>=3.33.0
+openai>=1.55.0
+supabase>=2.10.0
+python-dotenv>=1.0.1
+pydantic>=2.10.0
+pydantic-settings>=2.6.0
+apscheduler>=3.10.4
+aiohttp>=3.9.0
