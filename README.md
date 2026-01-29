@@ -1,6 +1,8 @@
 # Chorus
 
 Slack bot that turns founder conversations into LinkedIn/X post suggestions.
+# Demo 
+https://youtu.be/dD3kgNcX3HQ
 
 ## Setup
 
